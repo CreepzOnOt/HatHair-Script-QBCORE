@@ -1,9 +1,7 @@
--- fxmanifest.lua
-
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'Creepz or Zenvoid on cfx'
 description 'QBCORE Hathair command script Enjoy'
 version '1.0.0'
 
